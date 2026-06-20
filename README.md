@@ -1,18 +1,21 @@
-My personal GitHub Profile
 # 👋 Hi, I'm Rikas (@rikamoh-)
 
-By day, I am a Strategic Project Director specializing in Turnkey Developments and infrastructure operations across the GCC[span_2](start_span)[span_2](end_span). By night, I'm a tech enthusiast passionate about exploring automation, smart networking, and new digital workflows.
+I am a Technical Operations Leader and Project Director with over 16 years of experience managing high-stakes infrastructure, regulatory compliance, and large-scale technical teams. 
+
+Outside of my professional work, I am an enthusiastic tech hobbyist who loves exploring network privacy, digital automation, and smart workflows.
 
 ---
 
-## 🛠️ My Tech Interests & Learning Journey
-* 🔒 **Network Privacy:** Optimizing personal security using tools like **NextDNS**.
-* 🤖 **Smart Automation:** Creating seamless workflows (iOS Shortcuts, scripting, and automation tools) to streamline everyday tech.
-* 📈 **Continuous Learning:** Exploring GitHub, cloud tools, and smart home/network configurations just for the fun of building.
+## 🛠️ Professional Skillset
+* **Technical Governance:** Expert in regulatory compliance, code enforcement, and technical dossier reviews.
+* **Project & Operations Management:** Full lifecycle leadership from concept to handover, resource allocation, and workflow optimization.
+* **Commercial Stewardship:** Strategic procurement, contract administration, and budgeting.
+* **Design & Engineering Systems:** Proficient with AutoCAD, ArchiCAD, and BIM methodologies.
 
-## 🚀 Professional Background
-* 🏗️ 16+ years of experience leading technical affairs and multimillion-dollar operations[span_3](start_span)[span_3](end_span).
-* 🗺️ Based in Colombo, Sri Lanka with extensive GCC expertise (Qatar, UAE, Kuwait)[span_4](start_span)[span_4](end_span).
+## 🤖 Tech Interests & Learning Journey
+* 🔒 **Network Privacy & Security:** Configuring and optimizing smart DNS tools like **NextDNS**.
+* ⚙️ **Workflow Automation:** Experimenting with scripting and automated configurations to simplify everyday tech.
+* 📈 **Continuous Discovery:** Learning Git, GitHub, and cloud tech just for the fun of building and exploring.
 
 ## 📫 Connect With Me
-* Leave a star ⭐️ on this repository if you drop by!
+* Leave a star ⭐️ on this repository if you stop by!
